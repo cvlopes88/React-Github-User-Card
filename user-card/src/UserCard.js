@@ -2,7 +2,7 @@ import React from 'react';
 import UserFollower from './UserFollower';
 
 function UserCard(props) {
-    console.log(props)
+    
 
     return (
         <>

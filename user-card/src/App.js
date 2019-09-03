@@ -39,7 +39,7 @@ render() {
     <div>
       <h1>User Card</h1>
       <UserCard usercard={this.state.users}/>
-     
+     <h1>Followers</h1>
     <UserFollower userfollower={this.state.followers} />
     </div>
     
