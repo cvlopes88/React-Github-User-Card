@@ -13,7 +13,9 @@ html {
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-color: blueviolet
+  background-color: blueviolet;
+  
+  
 }
 
 .userfollower {
@@ -21,6 +23,7 @@ html {
   flex-direction: column;
   align-items: center;
   background-color: aqua;
+ 
 }
 
 h1 {
@@ -28,4 +31,13 @@ h1 {
   align-items: center;
   flex-direction: column;
   font-size: 60px
+}
+
+.userfollower img {
+  border-radius: 100px;
+}
+
+.usercard img {
+  width: 700px;
+  border-radius:70px;
 }
