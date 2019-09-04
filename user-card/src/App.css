@@ -1,0 +1,43 @@
+html {
+  background-color: blueviolet;
+}
+
+.App {
+  text-align: center;
+  display: flex;
+  
+}
+
+
+.usercard {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: blueviolet;
+  
+  
+}
+
+.userfollower {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: aqua;
+ 
+}
+
+h1 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  font-size: 60px
+}
+
+.userfollower img {
+  border-radius: 100px;
+}
+
+.usercard img {
+  width: 700px;
+  border-radius:70px;
+}
