@@ -1,5 +1,5 @@
 import React from 'react';
-import UserFollower from './UserFollower';
+
 
 function UserCard(props) {
     
